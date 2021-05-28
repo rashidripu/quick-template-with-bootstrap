@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 1vh;
+}
+/* header start  */
+.logo{
+
+}
+.logo img{
+
+width: 16%;
+
+padding-top: 6px;
+}
+nav{margin-left: 101px;}
+nav ul{padding-top: 15px;}
+nav ul li{
+
+list-style: none;
+
+float: left;
+
+margin-left: 55px;
+
+font-size: 15px;
+
+font-weight: 420;
+}
+hr{
+    
+}
+/* header end  */
+
+/* text content start */
+.text_content{
+
+text-align: center;
+
+margin-top: 2%;
+
+margin-bottom: 150px;
+}
+.text_content h1{
+    
+font-size: 50px;
+    
+color: #0F2551;
+}
+.text_content h2{
+    
+font-size: 50px;
+    
+color: #0087FF;
+}
+.text_content p{
+    
+width: 70%;
+    
+margin: auto;
+    
+padding-top: 10px;
+}
+.text_content img{
+    
+padding-top: 50px;
+}
+/* text content end /*
+
+/* successfully section start */
+.left_content{text-align: left;width: 70%;margin: auto;margin-right: 20px;padding-top: 5px;}
+.left_content h2{
+
+font-size: 50px;
+
+text-align: right;
+
+color: #E05D66;
+}
+.left_content p{
+
+font-size: 16px;
+
+text-align: right;
+
+color: #8E948B;
+
+line-height: 25px;
+}
+.right_content{
+
+width: 70%;
+}
+.right_content h2{
+    
+font-size: 50px;
+    
+color: #0F2551;
+}
+/* successfully section end */
+
+/* item section start */
+.item{
+    
+margin-top: 100px;
+}
+.item_one{
+    background-color: #FEEBED;
+    text-align: center;
+    padding: 21px 20px;
+}
+.item_one img, .item_two img, .item_three img{
+
+width: 90%;
+}
+.item_one h2, .item_two h2, .item_three h2{
+
+text-align: left;
+
+color: #0F2551;
+
+padding: 7px 0;
+}
+.item_one p, .item_two p, .item_three p{
+
+text-align: left;
+
+color: #8E948B;
+
+line-height: 25px;
+}
+.item_two{
+    background-color: #E9FAF4;
+    text-align: center;
+    padding: 18px 20px;
+}
+.item_three{
+    background-color: #FFF8E8;
+    text-align: center;
+    padding: 17px 20px;
+}
+/* item section end */
+
+/* footer start  */
+.footer_section{
+    background-color: #008AFF;
+
+    text-align: center;
+    
+    padding: 19px 0;
+    
+    margin-top: 100px;
+}
+
+footer p{
+    
+color: #c5bfbf;
+    
+font-size: 18px;
+}
+footer span{
+    
+text-transform: uppercase;
+    
+color: #ffff;
+    
+word-spacing: 10px;
+    
+letter-spacing: 6px;
+    
+font-size: 20px;
+    
+font-weight: 700;
+}
+/* footer end  */
